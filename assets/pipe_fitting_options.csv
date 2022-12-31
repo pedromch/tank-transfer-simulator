@@ -1,0 +1,34 @@
+id,"acessorio",tipo,subtipo,L/D
+1,"joelho",padrão,90°,30
+2,"joelho",padrão,45°,16
+3,"curva",raio grande,90°,20
+4,"junta",rosqueada,90°,20
+5,"junta",rosqueada,45°,26
+6,"junta",angular,90°,57
+7,"T",escoamento direto,,20
+8,"T",escoamento pela remificação,,60
+9,"curva",retorno em gomos,,50
+10,"valvula globo",convencional,sem obstrução - completamente aberta,340
+11,"valvula globo",convencional,com tampão - completamente aberta,450
+12,"valvula globo",escoamento em Y,sem obstrução com haste a 60° - completamente aberta,175
+13,"valvula globo",escoamento em Y,sem obstrução com haste a 45° - completamente aberta,145
+14,"valvula angular",convencional,sem obstrução - completamente aberta,145
+15,"valvula angular",convencional,com tampão - completamente aberta,200
+16,"valvula gaveta",convencional,completamente aberta,13
+17,"valvula gaveta",convencional,aberta 3/4,35
+18,"valvula gaveta",convencional,aberta metade,160
+19,"valvula gaveta",convencional,aberta 1/4,900
+20,"valvula gaveta",comporta,completamente aberta,17
+21,"valvula gaveta",comporta,aberta 3/4,50
+22,"valvula gaveta",comporta,aberta metade,260
+23,"valvula gaveta",comporta,aberta 1/4,1200
+24,"valvula de retenção",articulação convencional da portinhola,completamente aberta,135
+25,"valvula de retenção",articulação integral da portinhola,completamente aberta,50
+26,"valvula de retenção","retenção, de esfera, direta","2.5 vertical e 0,25 horizontal - completamente aberta",150
+27,"valvula de pé com crivo filtrante",com tampão de levantamento - 0.3°,completamente aberta,420
+28,"valvula de pé com crivo filtrante",com tampão articulado - 0.4°,completamente aberta,75
+29,"valvula borboleta",6 in ou mais,completamente aberta,20
+30,"valvula macho","retilinea furo retangular com 100% da area do tubo ",completamente aberta,18
+31,"valvula macho",retilinea,de três vias,18
+32,"valvula macho",retilinea furo retangular com 80% da area do tubo,completamente aberta - escoamento direto,44
+33,"valvula macho",retilinea furo retangular com 80% da area do tubo,completamente aberta - escoamento por derivação,140
