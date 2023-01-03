@@ -123,4 +123,4 @@ if __name__ == "__main__":
     # print(is_valid_list([], False))
     # validate([1,24,5], {3:4},'')
     # validate_pipe_fitting({})
-    validate_pump_curve(r'c:\Users\pedro.machado\Desktop\project_1\assets\pump_curve_test.csv')
+    validate_pump_curve(path.abspath(path.join(path.dirname(path.dirname(__file__)), ASSETS_FOLDER_NAME, PUMP_CURVE_TEMPLATE_FILE_NAME)))
